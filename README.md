@@ -7,10 +7,13 @@
 </div>
 
 ## 💬 ***Contactos***
-- **Whatsapp:** *[11 2403-7768](https://wa.me/541124037768)*
 - **discord:** *[francholol](https://discord.gg/tgN5xtsz)*
 - **instagram:** *[@capria_franco](https://www.instagram.com/capria_franco/)*
-- **Email:** *capriafranco@gmail.com*
+
+
+[![Discord](https://example.com/icono-discord.png)](https://discord.gg/tgN5xtsz)  
+[![Instagram](https://example.com/icono-instagram.png)](https://www.instagram.com/capria_franco/)
+
 
 ## 🛠️ ***Proyectos***
 - [Proyecto N°1](https://github.com/FranchoLol): Descripción.

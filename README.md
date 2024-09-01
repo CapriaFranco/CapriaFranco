@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 [![GitHub Streak](https://streak-stats.demolab.com?user=FranchoLol&theme=kacho-ga&hide_border=true&border_radius=75&locale=es&card_width=500&card_height=200&background=45%2C8ecaeb%2C2aeefe%2C000011&stroke=223131&ring=EB5454&fire=EB5454&currStreakNum=223131&sideNums=2aeefe&currStreakLabel=223131&sideLabels=2aeefe&dates=222244&excludeDaysLabel=222244)](https://git.io/streak-stats)
 
 
-![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=FranchoLol&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FranchoLol&bg_color=222244&color=8ecaeb&line=2aeefe&point=223131&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Métricas](https://metrics.lecoq.io/FranchoLol?template=classic&isocalendar=1&languages=1&activity=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FMadrid)
 

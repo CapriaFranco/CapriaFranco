@@ -1,10 +1,10 @@
-## Hola, soy [Tu Nombre] 👋
+# Hola, soy [Tu Nombre] 👋
 
 Soy un desarrollador apasionado por la tecnología y la programación. Me encanta trabajar en proyectos de [áreas de interés], y siempre estoy buscando aprender algo nuevo.
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_nombre_de_usuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_nombre_de_usuario&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical)
 
 ## 🚀 Proyectos Destacados
 - [Nombre del Proyecto](link_al_proyecto): Una breve descripción de lo que hace este proyecto.

@@ -17,18 +17,18 @@
 |----:|:----|
 | ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&card_width=500&card_height=500) | [![GitHub Streak](https://streak-stats.demolab.com?user=FranchoLol&theme=kacho-ga&hide_border=true&locale=es&card_width=500&card_height=200&background=45%2C3E00CC%2C3E00CC%2C3E00CC&stroke=F3F01D&ring=F3F01D&fire=F3F01D&currStreakNum=F3F01D&sideNums=F3F01D&currStreakLabel=F3F01D&sideLabels=F3F01D&dates=F3F01D&excludeDaysLabel=F3F01D&text=000000)](https://git.io/streak-stats) |
 
-<table style="border-collapse: collapse; width: 100%;border: 0;">
+<table style="border-collapse: collapse; width: 100%;border: 10px;">
   <tr>
-    <th style="border: none; padding: 10px;">Columna 1</th>
-    <th style="border: none; padding: 10px;">Columna 2</th>
+    <th>Columna 1</th>
+    <th>Columna 2</th>
   </tr>
   <tr>
-    <td style="border: none; padding: 10px;">Fila 1</td>
-    <td style="border: none; padding: 10px;">Fila 1</td>
+    <td>Fila 1</td>
+    <td>Fila 1</td>
   </tr>
   <tr>
-    <td style="border: none; padding: 10px;">Fila 2</td>
-    <td style="border: none; padding: 10px;">Fila 2</td>
+    <td>Fila 2</td>
+    <td>Fila 2</td>
   </tr>
 </table>
 

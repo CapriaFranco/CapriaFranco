@@ -1,6 +1,5 @@
 # Hola, soy Capria 👋
 
-Soy un desarrollador apasionado por la tecnología y la programación. Me encanta trabajar en proyectos de [áreas de interés], y siempre estoy buscando aprender algo nuevo.
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&border_radius=75&card_width=500&card_height=200)
 
@@ -12,12 +11,10 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FranchoLol&bg_color=F3F01D&color=3E00CC&line=3E00CC&point=3E00CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-![Visitas](https://img.shields.io/badge/visitas-0-blue?style=flat-square)
-
-![Visitas](https://img.shields.io/badge/visitas-1234-yellow?style=flat-square)
-
-![Static Badge](https://img.shields.io/badge/visitas)
+| c1 | c2 |
+| f1 | f2 |
+| f1 | f2 |
+| f1 | f2 |
 
 
 ## 🚀 Proyectos Destacados

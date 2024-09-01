@@ -27,4 +27,36 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 ---
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+### Rectángulo de Color Sólido
+
+<div style="background-color: #3E00CC; color: #F3F01D; padding: 10px; border-radius: 10px; width: 500px; height: 200px;">
+  Este es un rectángulo de color violeta con texto amarillo.
+</div>
+
+### Rectángulo con Borde
+
+<div style="background-color: #F3F01D; color: #3E00CC; padding: 10px; border: 5px solid #3E00CC; border-radius: 10px; width: 500px; height: 200px;">
+  Este es un rectángulo de color amarillo con borde violeta.
+</div>
+
+### Rectángulo con Imagen de Fondo
+
+<div style="background-image: url('https://via.placeholder.com/500x200/3E00CC/F3F01D'); color: #F3F01D; padding: 10px; border-radius: 10px; width: 500px; height: 200px;">
+  Texto sobre una imagen de fondo con color violeta.
+</div>
+
+
+---
+
+<div style="margin: 20px; padding: 10px; border-radius: 75px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true" width="500" height="200" alt="Tus estadísticas de GitHub" style="border-radius: 75px;">
+</div>
+
+<div style="margin: 20px; padding: 10px; border-radius: 75px; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true" width="500" height="200" alt="Lenguajes más usados" style="border-radius: 75px;">
+</div>
+
+<div style="margin: 20px; padding: 10px; border-radius: 75px; overflow: hidden;">
+    <img src="https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=darkhub&column=3&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D&border_radius=75" width="500" height="200" alt="Trofeos" style="border-radius: 75px;">
+</div>
+

@@ -8,8 +8,8 @@
 
 ## 💬 ***Contactos***
 - **Whatsapp:** *[11 2403-7768](https://wa.me/541124037768)*
-- **instagram:** *[@capria_franco](https://www.instagram.com/capria_franco/)*
 - **discord:** *[francholol](https://discord.gg/tgN5xtsz)*
+- **instagram:** *[@capria_franco](https://www.instagram.com/capria_franco/)*
 - **Email:** *capriafranco@gmail.com*
 
 ## 🛠️ ***Proyectos***
@@ -21,5 +21,6 @@
 |:----:|:----:|
 
 [![grafico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=FranchoLol&bg_color=F3F01D&color=3E00CC&line=3E00CC&point=3E00CC&area=true&hide_border=true)](https://github.com/FranchoLol)
+
 ---
-[![trofeos](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=tokyo&column=5&row=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D)](https://github.com/FranchoLol)
+[![trofeos](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=tokyo&column=8&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D)](https://github.com/FranchoLol)

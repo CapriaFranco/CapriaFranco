@@ -2,13 +2,14 @@
 
 Soy un desarrollador apasionado por la tecnología y la programación. Me encanta trabajar en proyectos de [áreas de interés], y siempre estoy buscando aprender algo nuevo.
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&border_radius=75)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&border_radius=75)
 
-![Estadísticas personalizadas](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&count_private=true&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D)
+![Estadísticas personalizadas](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&count_private=true&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&border_radius=75)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=darkhub&column=3&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=darkhub&column=3&row=1&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D&border_radius=75)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 

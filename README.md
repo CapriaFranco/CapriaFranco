@@ -19,18 +19,19 @@
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th style="border: none;">Columna 1</th>
-    <th style="border: none;">Columna 2</th>
+    <th style="border: none; padding: 10px;">Columna 1</th>
+    <th style="border: none; padding: 10px;">Columna 2</th>
   </tr>
   <tr>
-    <td style="border: none;">Fila 1</td>
-    <td style="border: none;">Fila 1</td>
+    <td style="border: none; padding: 10px;">Fila 1</td>
+    <td style="border: none; padding: 10px;">Fila 1</td>
   </tr>
   <tr>
-    <td style="border: none;">Fila 2</td>
-    <td style="border: none;">Fila 2</td>
+    <td style="border: none; padding: 10px;">Fila 2</td>
+    <td style="border: none; padding: 10px;">Fila 2</td>
   </tr>
 </table>
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FranchoLol&bg_color=F3F01D&color=3E00CC&line=3E00CC&point=3E00CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

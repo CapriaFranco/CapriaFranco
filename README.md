@@ -27,4 +27,4 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 ---
 
-[Hola que tal](#ffffff)
+The background color is `#ffffff` for light mode and `#000000` for dark mode.

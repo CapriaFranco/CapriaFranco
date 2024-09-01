@@ -3,9 +3,7 @@
 
 
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&card_width=500&card_height=200)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=darkhub&column=5&row=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D)](https://github.com/ryo-ma/github-profile-trophy)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&card_width=500&card_height=200) [![trophy](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=darkhub&column=5&row=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

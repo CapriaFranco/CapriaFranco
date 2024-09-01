@@ -10,7 +10,8 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FranchoLol&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranchoLol&theme=kacho-ga&hide_border=true&border_radius=75&locale=es&card_width=500&card_height=200&background=45%2C8ecaeb%2C2aeefe%2C000011&stroke=223131&ring=EB5454&fire=EB5454&currStreakNum=223131&sideNums=2aeefe&currStreakLabel=223131&sideLabels=2aeefe&dates=222244&excludeDaysLabel=222244)](https://git.io/streak-stats)
+
 
 ![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=FranchoLol&theme=react-dark)
 

@@ -27,4 +27,4 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 ---
 
-#ffffff Hola que tal #ffffff
+[Hola que tal](#ffffff)

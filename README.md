@@ -1,28 +1,18 @@
 # Hola, soy Capria 👋
-## Sobre me
+## 📝 ***sobre me***
 
-
-
-
-### Lenguajes:
-[![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true)](https://github.com/FranchoLol)
-
+<!--[![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true)](https://github.com/FranchoLol)-->
 <div align="right">
-  <a href="https://github.com/FranchoLol">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&card_width=500" alt="lenguajes">
-  </a>
+  <a href="https://github.com/FranchoLol"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&card_width=500" alt="lenguajes"></a>
 </div>
 
-
-
-
-## 📫 ***Contactos***
+## 💬 ***Contactos***
 - **Whatsapp:** *[11 2403-7768](https://wa.me/541124037768)*
 - **instagram:** *[@capria_franco](https://www.instagram.com/capria_franco/)*
 - **discord:** *[francholol](https://discord.gg/tgN5xtsz)*
 - **Email:** *capriafranco@gmail.com*
 
-## 🚀 ***Proyectos***
+## 🛠️ ***Proyectos***
 - [Proyecto N°1](https://github.com/FranchoLol): Descripción.
 - [Proyecto N°2](https://github.com/FranchoLol): Descripción.
 

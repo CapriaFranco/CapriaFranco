@@ -7,8 +7,13 @@
 </div>
 
 ## 💬 ***Contactos***
-|[![Discord](i/ds.png)](https://discord.gg/tgN5xtsz)|[![Instagram](i/ig.png)](https://www.instagram.com/capria_franco/)|
-|:----:|:----:|
+<a href="https://discord.gg/tgN5xtsz" target="_blank">
+  <img src="i/ds.png" alt="Discord" style="width:40px;display:inline;">
+</a>&nbsp;
+<a href="https://www.instagram.com/capria_franco/" target="_blank">
+  <img src="i/ig.png" alt="Instagram" style="width:40px; display:inline;">
+</a>
+
 
 ## 🛠️ ***Proyectos***
 - [Proyecto N°1](https://github.com/FranchoLol): Descripción.

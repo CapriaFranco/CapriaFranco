@@ -11,8 +11,8 @@
 - **instagram:** *[@capria_franco](https://www.instagram.com/capria_franco/)*
 
 
-[![Discord](https://example.com/icono-discord.png)](https://discord.gg/tgN5xtsz)  
-[![Instagram](https://example.com/icono-instagram.png)](https://www.instagram.com/capria_franco/)
+[![Discord](i/ds.png)](https://discord.gg/tgN5xtsz)  
+[![Instagram](i/ig.png)](https://www.instagram.com/capria_franco/)
 
 
 ## 🛠️ ***Proyectos***

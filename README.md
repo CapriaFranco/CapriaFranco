@@ -12,12 +12,12 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me encant
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FranchoLol&bg_color=F3F01D&color=3E00CC&line=3E00CC&point=3E00CC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=FranchoLol.FranchoLol)
+
 ![Visitas](https://img.shields.io/badge/visitas-0-blue?style=flat-square)
-![Hitcounter](https://hitcounterjs.com/?c=visitas&d=FranchoLol)
-![Visitor Count](https://visitor-count.badgeapi.com/badge?page_id=FranchoLol)
+
 ![Visitas](https://img.shields.io/badge/visitas-1234-yellow?style=flat-square)
 
+![Static Badge](https://img.shields.io/badge/visitas)
 
 
 ## 🚀 Proyectos Destacados

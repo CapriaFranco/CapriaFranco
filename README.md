@@ -1,25 +1,47 @@
-# Hola, soy Capria 👋
-## 📝 ***sobre me***
-
-<!--[![lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true)](https://github.com/FranchoLol)-->
-<div align="right">
-  <a href="https://github.com/FranchoLol"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&card_width=500" alt="lenguajes"></a>
+# ¡Hola, soy Capria! 👋
+## 🚀 Sobre mí
+<div style="overflow: hidden;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Lenguajes más usados" width="320px" style="margin-left: 20px; margin-bottom: 20px;">
+  
+  <p style="text-align: justify; margin-right: 20px;">
+    Nací en 2008 y tengo un interés especial por el desarrollo web. Actualmente estoy perfeccionando mis habilidades en JavaScript, que es el lenguaje que más estoy aprendiendo.<br>En mi tiempo libre, me gusta jugar tenis 🎾, pádel, ping pong 🏓 y vóley 🏐.
+  </p>
 </div>
 
-## 💬 ***Contactos***
-<a href="https://discord.gg/tgN5xtsz" target="_blank"><img src="i/ds.png" alt="Discord" style="width:40px;display:inline;"></a>
-<a href="https://www.instagram.com/capria_franco/" target="_blank"><img src="i/ig.png" alt="Instagram" style="width:40px;display:inline;"></a>
 
 
-## 🛠️ ***Proyectos***
-- [Proyecto N°1](https://github.com/FranchoLol): Descripción.
-- [Proyecto N°2](https://github.com/FranchoLol): Descripción.
+## 🛠️ Tecnologías y Herramientas
 
----
-| [![estadisticas](https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=F3F01D&text_color=F3F01D&icon_color=F3F01D&hide_border=true&card_width=500&card_height=200)](https://github.com/FranchoLol) | [![racha](https://streak-stats.demolab.com?user=FranchoLol&theme=kacho-ga&hide_border=true&locale=es&card_width=500&card_height=195&background=45%2C3E00CC%2C3E00CC%2C3E00CC&stroke=F3F01D&ring=F3F01D&fire=F3F01D&currStreakNum=F3F01D&sideNums=F3F01D&currStreakLabel=F3F01D&sideLabels=F3F01D&dates=F3F01D&excludeDaysLabel=F3F01D&text=000000)](https://github.com/FranchoLol) |
-|:----:|:----:|
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (básico)">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP (básico)">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
+</p>
 
-[![grafico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=FranchoLol&bg_color=F3F01D&color=3E00CC&line=3E00CC&point=3E00CC&area=true&hide_border=true)](https://github.com/FranchoLol)
+## 📊 Mi Actividad en GitHub
 
----
-[![trofeos](https://github-profile-trophy.vercel.app/?username=FranchoLol&theme=tokyo&column=8&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true&border=2&border_color=F3F01D)](https://github.com/FranchoLol)
+|<img src="https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Estadísticas de GitHub">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=FranchoLol&theme=radical&background=3E00CC&ring=FFFF00&fire=FFFF00&currStreakNum=FFFF00&sideNums=FFFF00&currStreakLabel=FFFF00&sideLabels=FFFF00&dates=FFFF00&hide_border=true" alt="Racha de GitHub">|
+|---|---|
+
+
+## 🏆 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/FranchoLol/chess">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranchoLol&repo=chess&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Chess Game" width="48%">
+  </a>
+</div>
+
+<div align="right">
+
+## 📫 Contáctame
+<a href="https://www.instagram.com/TuUsuarioDeInstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.com/users/TuUsuarioDeDiscord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://wa.me/TuNúmeroDeWhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>

@@ -3,7 +3,7 @@
 <div style="overflow: hidden;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Lenguajes más usados" width="320px" style="margin-left: 20px; margin-bottom: 20px;">
   
-  <p style="text-align: justify; margin-right: 40px;">
+  <p style="text-align: justify; margin-right: 80px;">
     Nací en 2008 y tengo un interés especial por el desarrollo web. Actualmente estoy perfeccionando mis habilidades en JavaScript, que es el lenguaje que más estoy aprendiendo.<br>En mi tiempo libre, me gusta jugar tenis 🎾, pádel, ping pong 🏓 y vóley 🏐.
   </p>
 </div>

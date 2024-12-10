@@ -83,7 +83,7 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-capriadev@gmail.com-444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:capriadeveloper@gmail.com) [![Discord](https://img.shields.io/badge/Discord-francholol-444?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/francholol) [![Instagram](https://img.shields.io/badge/Instagram-capria__franco-444?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0069)](https://instagram.com/capria_franco)  
+[![Email](https://img.shields.io/badge/Email-capriadeveloper@gmail.com-444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:capriadeveloper@gmail.com) [![Discord](https://img.shields.io/badge/Discord-francholol-444?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/francholol) [![Instagram](https://img.shields.io/badge/Instagram-capria__franco-444?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0069)](https://instagram.com/capria_franco)  
 
 </div>
 

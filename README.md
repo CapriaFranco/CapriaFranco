@@ -69,9 +69,11 @@
 <a href="https://github.com/FranchoLol/chess">
 <img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranchoLol&repo=chess&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Juego de ajedrez">
 </a>
-
 <a href="https://github.com/FranchoLol/eestn2">
 <img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranchoLol&repo=eestn2&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
+</a>
+<a href="https://github.com/FranchoLol/CatBot">
+<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranchoLol&repo=CatBot&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
 </a>
 
 ---

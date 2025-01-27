@@ -53,8 +53,8 @@
 </section>
 
 <div align="center">
-<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranchoLol&layout=compact&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Top Langs"></a>
-<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api?username=FranchoLol&show_icons=true&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="GitHub Stats"></a>
+<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapriaFranco&layout=compact&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Top Langs"></a>
+<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api?username=CapriaFranco&show_icons=true&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="GitHub Stats"></a>
 </div>
 
 ---
@@ -66,14 +66,14 @@
 
 *Actualmente, ando trabajando en un bot de Discord y un plugin para servidores de Minecraft Java.*  
 
-<a href="https://github.com/FranchoLol/chess">
-<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranchoLol&repo=chess&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Juego de ajedrez">
+<a href="https://github.com/CapriaFranco/chess">
+<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=CapriaFranco&repo=chess&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Juego de ajedrez">
 </a>
-<a href="https://github.com/FranchoLol/eestn2">
-<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranchoLol&repo=eestn2&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
+<a href="https://github.com/CapriaFranco/eestn2">
+<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=CapriaFranco&repo=eestn2&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
 </a>
-<a href="https://github.com/FranchoLol/CatBot">
-<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=FranchoLol&repo=CatBot&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
+<a href="https://github.com/CapriaFranco/CatBot">
+<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=CapriaFranco&repo=CatBot&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
 </a>
 
 ---

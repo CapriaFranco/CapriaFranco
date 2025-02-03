@@ -75,6 +75,9 @@
 <a href="https://github.com/CapriaFranco/CatBot">
 <img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=CapriaFranco&repo=CatBot&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
 </a>
+<a href="https://github.com/CapriaFranco/VSVTracker">
+<img height="126px" src="https://github-readme-stats.vercel.app/api/pin/?username=CapriaFranco&repo=VSCTracker&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Gestión escolar">
+</a>
 
 ---
 

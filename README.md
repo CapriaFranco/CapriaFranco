@@ -53,8 +53,8 @@
 </section>
 
 <div align="center">
-<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapriaFranco&layout=compact&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Top Langs"></a>
-<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api?username=CapriaFranco&show_icons=true&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="GitHub Stats"></a>
+<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capriafranco&layout=compact&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="Top Langs"></a>
+<a href=""><img height="170px" src="https://github-readme-stats.vercel.app/api?username=capriafranco&show_icons=true&theme=radical&bg_color=3E00CC&title_color=FFFF00&text_color=FFFF00&icon_color=FFFF00&hide_border=true" alt="GitHub Stats"></a>
 </div>
 
 ---

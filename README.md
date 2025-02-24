@@ -6,7 +6,7 @@
 <span style='font-size:15pt;font-weight:bold;'>🖥️ Mi Setup</span>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AMD Ryzen 5 5600X](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ededed?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)
+![AMD Ryzen 5 5600X](https://img.shields.io/badge/AMD-Ryzen_7_5700X-ededed?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)
 ![RAM 32GB](https://img.shields.io/badge/RAM-32GB-ededed?style=for-the-badge&logo=kingstontechnology&logoColor=white&labelColor=000)
 ![AMD RADEON RX6600 - Para mejores graficos en VSC](https://img.shields.io/badge/RADEON-MSI_Mecha_2x_RX6600-ededed?style=for-the-badge&logo=msi&logoColor=white&labelColor=ED1C24)
 ![SSD M.2 1TB - Para S.O](https://img.shields.io/badge/SSD_M.2-1TB-ededed?style=for-the-badge&logo=kingstontechnology&logoColor=white&labelColor=000)

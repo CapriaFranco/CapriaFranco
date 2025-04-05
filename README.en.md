@@ -5,11 +5,13 @@
 <div align='center'>
 <span style='font-size:15pt;font-weight:bold;'>🖥️ My Setup</span>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AMD Ryzen 5 5600X](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ededed?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)
-![RAM 32GB](https://img.shields.io/badge/RAM-32GB-ededed?style=for-the-badge&logo=kingstontechnology&logoColor=white&labelColor=000)
-![AMD RADEON RX6600](https://img.shields.io/badge/RADEON-MSI_Mecha_2x_RX6600-ededed?style=for-the-badge&logo=msi&logoColor=white&labelColor=ED1C24)
-![SSD M.2 1TB](https://img.shields.io/badge/SSD_M.2-1TB-ededed?style=for-the-badge&logo=kingstontechnology&logoColor=white&labelColor=000)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AMD Ryzen 7 5800X3D](https://img.shields.io/badge/AMD-Ryzen_7_5800X3D-ededed?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)
+![NVIDIA GEFORCE RTX 3060 Ti](https://img.shields.io/badge/GEFORCE-RTX_3060Ti-ededed?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76B900)
+<br>![RAM 32GB](https://img.shields.io/badge/RAM-32GB-ededed?style=for-the-badge&logo=kingstontechnology&logoColor=white&labelColor=000)
+![SSD M.2 2TB](https://img.shields.io/badge/SSD_M.2-2TB-ededed?style=for-the-badge&logo=kingstontechnology&logoColor=white&labelColor=000)
+![SSD 4TB](https://img.shields.io/badge/SSD-4TB-ededed?style=for-the-badge&logo=samsung&logoColor=fff&labelColor=1428A0)
+![SSD 4TB](https://img.shields.io/badge/SSD-4TB-ededed?style=for-the-badge&logo=samsung&logoColor=fff&labelColor=1428A0)
 ![HDD 2TB](https://img.shields.io/badge/HDD-2TB-ededed?style=for-the-badge&logo=seagate&logoColor=white&labelColor=6EBE49)
 </div>
 

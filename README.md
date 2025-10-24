@@ -30,7 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Básico-ededed?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-Básico-ededed?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ***Frameworks y Librerías*:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -50,6 +50,7 @@
 ***IDE´s*:**
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ***Motores de Base de Datos*:**
@@ -95,3 +96,4 @@
 [![Discord](https://img.shields.io/badge/Discord-francholol-ededed?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/francholol)
 [![Instagram](https://img.shields.io/badge/Instagram-capria__franco-ededed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0069)](https://instagram.com/capria_franco)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/yusfix)
+

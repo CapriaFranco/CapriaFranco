@@ -2,6 +2,14 @@
 
 <h1 align='center'>Buenas 👋, Yo soy Capria 👨‍💻</h1>
 
+<h3>🧠 Sobre esta cuenta</h3>
+
+Esta es mi cuenta personal.  
+Subo cosas simples, pruebas o ideas que se me ocurren.  
+Me gusta el **Frontend**, diseñar y crear **páginas web**, y sigo aprendiendo y experimentando con nuevas herramientas.
+
+---
+
 <div align='center'>
 <span style='font-size:15pt;font-weight:bold;'>🖥️ Mi Setup</span>
 
@@ -16,7 +24,7 @@
 </div>
 
 <details>
-    <summary style="font-size:12pt;">🛠️ Habilidades Tecnicas</summary>
+    <summary style="font-size:12pt;">🛠️ Habilidades Técnicas</summary>
 
 <h3><span style="font-style: italic;">Lenguajes y Tecnologías</span>:</h3>
 
@@ -34,9 +42,11 @@
 
 ***Frameworks y Librerías*:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js%20(básico)-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ***Entornos de ejecución y plataformas*:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20(básico)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ***Lenguajes de datos y documentación*:**
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
@@ -55,10 +65,12 @@
 
 ***Motores de Base de Datos*:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ***Servicios en la Nube*:**
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
+![InfinityFree](https://img.shields.io/badge/InfinityFree-0066CC?style=for-the-badge&logo=icloud&logoColor=white)
 
 ***Diseños*:**
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
@@ -76,7 +88,6 @@
 ![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 </details>
-
 
 <details>
     <summary style="font-size:12pt;">📊 Estadísticas</summary>
@@ -96,5 +107,3 @@
 [![Discord](https://img.shields.io/badge/Discord-francholol-ededed?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/francholol)
 [![Instagram](https://img.shields.io/badge/Instagram-capria__franco-ededed?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF0069)](https://instagram.com/capria_franco)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/yusfix)
-
-
